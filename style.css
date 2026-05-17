@@ -425,3 +425,49 @@ footer{
 
     min-height:40px;
 }
+/* SKILLS */
+
+.skills{
+
+    padding:80px 50px;
+
+    background:#0f172a;
+}
+
+.skill{
+
+    margin:20px 0;
+}
+
+.progress{
+
+    width:100%;
+
+    background:#1e293b;
+
+    border-radius:20px;
+
+    overflow:hidden;
+}
+
+.progress-bar{
+
+    height:20px;
+
+    border-radius:20px;
+}
+
+.html{
+    width:90%;
+    background:orange;
+}
+
+.css{
+    width:80%;
+    background:deepskyblue;
+}
+
+.js{
+    width:70%;
+    background:yellow;
+}
